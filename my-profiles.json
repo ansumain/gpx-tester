@@ -1,0 +1,21 @@
+{
+  "profiles": [
+    {
+      "name": "work",
+      "display_name": "Ansuman Panda",
+      "email": "mfsi.ansumanp@mindfiresolutions.com",
+      "ssh_key": "C:\\Users\\Mindfire Intern 11\\.ssh\\id_ed25519_gpx_work",
+      "signing_commits": false,
+      "created_at": "2026-05-19T10:22:48.443Z"
+    },
+    {
+      "name": "personal",
+      "display_name": "Ansuman Panda",
+      "email": "2004.ansuman@gmail.com",
+      "ssh_key": "C:\\Users\\Mindfire Intern 11\\.ssh\\id_ed25519_gpx_personal",
+      "signing_commits": false,
+      "created_at": "2026-05-19T10:50:16.325Z"
+    }
+  ],
+  "exported_at": "2026-05-19T10:51:24.284Z"
+}
